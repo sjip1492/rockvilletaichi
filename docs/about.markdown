@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Rockville Tai Chi was founded in 1996 by Mr. Lee, and has been active ever since. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This practice emphasizes slow and flowing movements that are accessible to all ages, backgrounds, and fitness levels.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Our classes are free to join. We only share the cost to rent our space.
 
+We also have yearly brunches which feature traditional Chinese foods and celebrations.
 
-[jekyll-organization]: https://github.com/jekyll
+If you are looking for a gentle, stress-free way to exercise, feel free to join our Tai Chi community. We are beginner friendly and are looking for new members.
