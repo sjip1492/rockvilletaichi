@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Rockville Tai Chi was founded in 1996 by Mr. Lee, and has been active ever since. 
+Rockville Tai Chi was founded in the early 1990s by Mr. E. C. Lee, and has been active ever since. 
 
 This practice emphasizes slow and flowing movements that are accessible to all ages, backgrounds, and fitness levels.
 

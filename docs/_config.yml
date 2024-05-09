@@ -21,7 +21,7 @@
 title: Rockville Tai Chi
 email: rockvilletaichi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Join Rockville's longest-running Tai Chi class. Our slow and flowing Tai Chi sessions cater to every age, background, and fitness level.
+  Join Rockville, Maryland's longest-running Tai Chi class. Our slow and flowing Tai Chi sessions cater to every age, background, and fitness level.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://sjip1492.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -29,6 +29,8 @@ url: "http://sjip1492.github.io" # the base hostname & protocol for your site, e
 theme: minima
 plugins:
   - jekyll-feed
+
+google_analytics: G-70N7TDQWLD
 
 # Exclude from processing.
 # The following items will not be processed, by default.
