@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Class Info for May 14"
+title:  "Class Cancelled for May 14"
 categories: jekyll update
 ---
-Next week, May 14, we will be trying out a new ambient music playlist. Stop by to see how it goes! Any song recommendations are also welcome.
+Next week, May 14, class is cancelled due to our space being unavailable.
 
-Class will be held in the same location as usual. See you there!
+Next class will be held May 21. We will trying out a new music playlist. Stop by to see how it goes! Any song recommendations are also welcome.
