@@ -9,4 +9,4 @@ If you are looking for a gentle, stress-free way to exercise, feel free to join 
 
 We also have yearly brunches which feature traditional Chinese foods and celebrations.
 
-We meet every Tuesday at 6 PM, please email us for location details, as well as any other questions you may have, at rockvilletaichi (at) gmail (dot) com
+We meet every Tuesday from 6:30 PM to 7:30 PM, please email us for location details, as well as any other questions you may have, at rockvilletaichi (at) gmail (dot) com
