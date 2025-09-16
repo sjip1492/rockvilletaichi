@@ -12,4 +12,4 @@ Our classes are free to join. We only share the cost to rent our space.
 
 We also have yearly brunches which feature traditional Chinese foods and celebrations.
 
-If you are looking for a gentle, stress-free way to exercise, feel free to join our Tai Chi community. We are beginner friendly and are looking for new members!
+If you are looking for a gentle, stress-free way to exercise, feel free to join our Tai Chi community. We are beginner friendly and are accepting new members.

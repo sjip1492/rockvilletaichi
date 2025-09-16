@@ -3,11 +3,11 @@ layout: home
 title: Join Rockville Tai Chi
 ---
 {% include hero.html %}
-Join Rockville's longest-running Tai Chi class. Our slow and flowing sessions cater to all ages, backgrounds, and fitness levels.
+Join Rockville's longest-running Tai Chi class. Our slow and flowing sessions are appropriate for all ages, backgrounds, and fitness levels.
 
 Our classes are free to join. We only share the cost to rent our space.
 
-If you are looking for a gentle, stress-free way to exercise, feel free to join our Tai Chi community. We are beginner friendly and are looking for new members.
+If you are looking for a gentle, stress-free way to exercise, feel free to join our Tai Chi community. We are beginner friendly and are accepting new members.
 
 We also have yearly brunches which feature traditional Chinese foods and celebrations.
 
