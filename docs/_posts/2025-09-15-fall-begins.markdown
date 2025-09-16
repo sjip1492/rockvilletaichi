@@ -9,5 +9,7 @@ Hope you all had a great summer, and welcome back to the fall session!
 
 We will continue to meet every Tuesday from 6:30 to 7:30 PM. Please email us for the location as it sometimes changes!
 
-And here is the link to a new Spotify playlist which we may play during the session: https://open.spotify.com/playlist/1cPXXOrf6Xsq4oetPOlxlf?si=tvHHwVb3QQeskyx0FJhNJg
+And here is the link to a new Spotify playlist which we may play during the session: [Spotify Link](https://open.spotify.com/playlist/1cPXXOrf6Xsq4oetPOlxlf?si=tvHHwVb3QQeskyx0FJhNJg)
+
+Note: you will need a Premium Spotify account to play without commercials between the songs. 
 
